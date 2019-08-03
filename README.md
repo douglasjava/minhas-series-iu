@@ -1,3 +1,13 @@
+<p align="center">
+	<img src="https://img.shields.io/badge/Problems%20Solved-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-React-orange.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-03/08/2019-brightgreen.svg">
+</p>
+
+Made in the [Hands-on React Native](https://www.devpleno.com/) course by [Tulio Faria](https://github.com/tuliofaria)
+
+Author: [Douglas Dias](https://github.com/douglasjava)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
